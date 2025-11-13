@@ -66,7 +66,7 @@ Autores
 
 Este proyecto fue desarrollado en grupo por:
 
-- Facundo Achira
+- Facundo Archiria
 - Nidia Samaniego
 - Ivan Sierra
 - Cristian Siles
